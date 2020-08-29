@@ -1,0 +1,16 @@
+a:hover {
+    background-color: darkslategrey;
+}
+
+.gradient {
+    background: linear-gradient(to right, #33ccff 0%, #66ffff 100%);
+}
+
+nav {
+    background: linear-gradient(to right, #33ccff 0%, #66ffff 100%);
+}
+
+.line {
+    border-bottom: 1px silver solid;
+    display: block;
+}
